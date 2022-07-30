@@ -18,7 +18,12 @@ Thanks for your attention 👋
 - :art: Graphic Designer at [Travel Til dawn](https://www.traveltildawn.com/) 
 - 📫 How to reach me [Mail](mailto:mdmehedihasan20188@gmail.com)
 - :sparkling_heart: Fun Fact - I love using Emojis 
-
-<!-- Linkedin -->
-[<img src='https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/rcmehedi15/) <!-- facebook --> [<img src='https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png' alt='facebook' height='40' target="_blank">](https://www.facebook.com/rcmehedi15) <!-- Instagram -->   [<img src='https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png' alt='YouTube' height='40' target="_blank">](https://www.youtube.com/c/BanglaTechSeries)  <!-- youtube -->  [<img src='https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png' alt='YouTube' height='40' target="_blank">](https://www.youtube.com/c/BanglaTechSeries)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rcmehedi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rcmehedi15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rcmehedi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rcmehedi15" height="30" width="40" /></a>
+<a href="https://fb.com/rcmehedi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rcmehedi15" height="30" width="40" /></a>
+<a href="https://instagram.com/rcmehedi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rcmehedi15" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/banglatechseries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="banglatechseries" height="30" width="40" /></a>
+</p> 
 

@@ -10,14 +10,10 @@ I have 4+ year's experience in WordPress in the local & online marketplace.  I h
 <br>
 🎴 Photoshop  | Illustrator | XD | Figma  <br>
 🎴 Web research | Lead Genaration | SEO <br>
-🎴 HTML5 <br>
-🎴 CSS3 <br>
-🎴 Bootstrap <br>
-🎴 JavaScript  <br>
-🎴 Python  <br>
-🎴 PHP <br>
-🎴 MySQL and   <br>
-🎴 WordPress themes customization Etc.  <br><br><br><br>
+🎴 HTML5 | CSS3 | Bootstrap | JavaScript | PHP | MYSQL   <br>
+🎴 WordPress themes customization  <br>
+🎴 And Python | C# Programming   Etc. <br> 
+  <br><br><br><br>
 <br> Buyer satisfaction is my goal. I have many happy Buyers in marketplaces. If you choose. Message me! <br>
 
 <br>

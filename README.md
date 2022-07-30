@@ -8,12 +8,13 @@
 I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br><br>
 I have 4+ year's experience in WordPress in the local & online marketplace.  I have knowledge of 
 <br>
-🎴 Any design <br>
-🎴 web research  <br>
+🎴 Photoshop  | Illustrator | XD | Figma  <br>
+🎴 Web research | Lead Genaration | SEO <br>
 🎴 HTML5 <br>
 🎴 CSS3 <br>
 🎴 Bootstrap <br>
 🎴 JavaScript  <br>
+🎴 Python  <br>
 🎴 PHP <br>
 🎴 MySQL and   <br>
 🎴 WordPress themes customization Etc.  <br><br><br><br>

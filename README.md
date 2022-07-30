@@ -15,11 +15,11 @@ I have 4+ year's experience in WordPress in the local & online marketplace.  I h
 🎴 WordPress themes customization  <br>
 🎴 And Python | C# Programming   Etc. <br> 
 
-<br> Buyer satisfaction is my goal. I have many happy Buyers in marketplaces. If you choose. Message me! <br>
+<br> ⚡ Self learning is my passion Buyer satisfaction is my goal. I have many happy Buyers in marketplaces. If you choose. Message me!😊 <br>
 
 <br>
 - 📫 I’m currently working on Fiver & Remote Job (USA) 
-- ⚡ Self learning is my passion
+
 
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1nh29Ipl0E84GvJP66yK-iaKaPOsWqUQL/view?usp=sharing)
 

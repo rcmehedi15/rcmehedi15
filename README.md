@@ -5,15 +5,16 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="Assets/an.gif" />
 
-I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br><br>
+I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br>
 I have 4+ year's experience in WordPress in the local & online marketplace.  I have knowledge of 
 <br>
+
 🎴 Photoshop  | Illustrator | XD | Figma  <br>
 🎴 Web research | Lead Genaration | SEO <br>
 🎴 HTML5 | CSS3 | Bootstrap | JavaScript | PHP | MYSQL   <br>
 🎴 WordPress themes customization  <br>
 🎴 And Python | C# Programming   Etc. <br> 
-  <br><br><br><br>
+
 <br> Buyer satisfaction is my goal. I have many happy Buyers in marketplaces. If you choose. Message me! <br>
 
 <br>

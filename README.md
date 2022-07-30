@@ -7,15 +7,15 @@
 
 I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br><br>
 I have 4+ year's experience in WordPress in the local & online marketplace.  I have knowledge of 
-🎴 Any design
-🎴 web research
-🎴 HTML5
-🎴 CSS3
-🎴 Bootstrap,
-🎴 JavaScript 
-🎴 PHP
-🎴 MySQL and 
-🎴 WordPress themes customization Etc. 
+🎴 Any design <br><br><br><br>
+🎴 web research  <br><br><br><br><br><br><br><br>
+🎴 HTML5 <br><br><br><br>
+🎴 CSS3 <br><br><br><br>
+🎴 Bootstrap <br><br><br><br> 
+🎴 JavaScript  <br><br><br><br>
+🎴 PHP <br><br><br><br>
+🎴 MySQL and   <br><br><br><br>
+🎴 WordPress themes customization Etc.  <br><br><br><br>
 <br> Buyer satisfaction is my goal. I have many happy Buyers in marketplaces. If you choose. Message me! <br>
 
 <br>

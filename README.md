@@ -13,7 +13,7 @@ I have 4+ year's experience in WordPress in the local & online marketplace.  I h
 🎴 Web research | Lead Genaration | SEO <br>
 🎴 HTML5 | CSS3 | Bootstrap | JavaScript | PHP | MYSQL   <br>
 🎴 WordPress themes customization  <br>
-🎴 And Python | C# Programming   Etc. <br> 
+🎴 And Python Programming <br> 
 
 <br> ⚡ Self learning is my passion. I have many happy Buyers in marketplaces.<br> Buyer satisfaction is my goal.  If you choose. Message me!😊 <br>
 

@@ -1,6 +1,6 @@
 ### Hello ,Boss! 👋,
 ## I'm Md Mehedi Hasan 
-####  MERN Stack Developer| Graphic Designer.<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px">
+####  MERN Stack Developer | Graphic Designer.<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px">
 ![Profile views](https://gpvc.arturio.dev/rcmehedi15)  
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="Assets/an.gif" />
@@ -20,11 +20,6 @@ I have 4+ year's experience in WordPress in the local & online marketplace.  I h
 <br>
 - 📫 I’m currently working on Fiver & Remote Job (USA) 
 
-
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1nh29Ipl0E84GvJP66yK-iaKaPOsWqUQL/view?usp=sharing)
-
-
-- :art: Graphic Designer at [Travel Til dawn](https://www.traveltildawn.com/) 
 - 📫 How to reach me [Mail](mailto:mdmehedihasan20188@gmail.com)
 - :sparkling_heart: Fun Fact - I love using Emojis <br><br><br>
 Thanks for your attention 👋

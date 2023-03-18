@@ -1,7 +1,7 @@
 ### Hello ,Boss! 👋,
 ## I'm Md Mehedi Hasan 
 ####  MERN Stack Developer | Graphic Designer.
-![Profile views](https://komarev.com/ghpvc/?username=rcmehedi15)
+![Profile views](https://gpvc.arturio.dev/rcmehedi15)
 
 
 I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br>

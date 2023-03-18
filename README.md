@@ -1,9 +1,8 @@
 ### Hello ,Boss! 👋,
 ## I'm Md Mehedi Hasan 
 ####  MERN Stack Developer | Graphic Designer.
-![Profile views](https://komarev.com/ghpvc/rcmehedi15)
+![Profile views](https://komarev.com/ghpvc/?username=rcmehedi15)
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="Assets/an.gif" />
 
 I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br>
 I have 4+ year's experience in WordPress in the local & online marketplace.  I have knowledge of 

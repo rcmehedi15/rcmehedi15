@@ -3,8 +3,6 @@
 ####  MERN Stack Developer | Graphic Designer.<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px">
 ![Profile views](https://gpvc.arturio.dev/rcmehedi15)  
 
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="xbayazid" data-canonical-src="https://komarev.com/ghpvc/?username=rcmehedi15&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
-
 <img align="right" alt="Coder GIF" height=250 width=350 src="Assets/an.gif" />
 
 I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br>

@@ -9,8 +9,8 @@ I have 4+ year's experience in WordPress in the local & online marketplace.  I h
 <br>
 
 🎴 Photoshop  | Illustrator | XD | Figma  <br>
-🎴 Web research | Lead Genaration | SEO <br>
-🎴 HTML5 | CSS3 | Bootstrap | JavaScript | PHP | MYSQL   <br>
+🎴 Web research | Lead Genaration | SEO | Digital Marketing <br>
+🎴 HTML5 | CSS3 | Bootstrap | TailwindCss | Modern JavaScript | React JS | Django | PHP | MYSQL   <br>
 🎴 WordPress themes customization  <br>
 🎴 And Python Programming <br> 
 
@@ -19,7 +19,7 @@ I have 4+ year's experience in WordPress in the local & online marketplace.  I h
 <br>
 - 📫 I’m currently working on Fiver & Remote Job (USA) 
 
-- 📫 How to reach me [Mail](mailto:mdmehedihasan20188@gmail.com)
+- 📫 How to reach me Mail : mdmehedihasan20188@gmail.com
 - :sparkling_heart: Fun Fact - I love using Emojis <br><br><br>
 Thanks for your attention 👋
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcmehedi15&show_icons=true&locale=en&layout=compact" alt="rcmehedi15" /></p><br><br><br><br><br><br><br>

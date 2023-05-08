@@ -1,32 +1,102 @@
-### Hello ,Boss! 👋,
-## I'm Md Mehedi Hasan 
-####  Software Engineer | Graphic Designer.
+<div id="header" align="center">
+  <img style="width: 100%; height: auto;" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+</div>
+
+<hr>
+
+
 
 ![](https://komarev.com/ghpvc/?username=rcmehedi15&label=PROFILE+VIEWS)
 
 
-I completed diploma in engineering computer department from  [Infra polytechnic institute]([https://www.infra.edu.bd/)[<img src='https://cdn.icon-icons.com/icons2/1886/PNG/512/nose_120696.png' alt='linkedin' height='40' target="_blank">](https://icon-library.com/images/institution-icon/institution-icon-27.jpg) <br>
-I have 4+ year's experience in WordPress in the local & online marketplace.  I have knowledge of 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vcenter=true&width=680&height=100&lines=Email+Me+for+any+website+Develop+And+graphic+design.%F0%9F%98%8A)](https://git.io/typing-svg)
+
+### 🥰 About Me :
+
+Recently I completed diploma in engineering computer department 
+from Infra polytechnic institute.
+
+Technology Lover | Positive Thinker | Motivator 
+
+Self learning is my passion
+
+
+### 😎 Skillset :
+
+Comfortable: `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `DOM` `BOM` `ES6` `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js` `NODE JS` `MongoDB` `C` `Python`  `Django` `MYSQL` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms`
+
+Familiar with: `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline`
+
+Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
+
+
+<hr>
+
+### 👨‍💼Experiences:
+
+| No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
+| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
+| 1  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara-Dhaka, Bangladesh |
+| 2  | Assistant General Manager-IT | Remote  |Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
+<hr>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+ 
+   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express " alt="Express JS "/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="Mongodb" alt="Mongodb"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-FFCA28.svg?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;
+   <img src="https://img.shields.io/badge/django-green.svg?style=for-the-badge&logo=django&logoColor=black" title="django" alt="django"/>&nbsp;
+   <img src="https://img.shields.io/badge/mysql-1572B6.svg?style=for-the-badge&logo=mysql&logoColor=white" title="mysql" alt="mysql" />&nbsp;
+   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  
+  
+</div>
+<hr>
+<div align="center"> 
+<a href="https://drive.google.com/file/d/1sXxD519R_blUWugrdn7LKuyoESPnPOq_/view?usp=sharing"  target="_blank">
+ <a href="https://drive.google.com/file/d/1sXxD519R_blUWugrdn7LKuyoESPnPOq_/view?usp=sharing" style="text-decoration: none"  target="_blank" ><img src='https://i.postimg.cc/TPVkdYdv/btn.png' border='0' alt='btn'/></a>
+  </a>
+
+</div>
+<hr>
+
+### 🔥 My GitHub Stats :
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="33%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/>
+</div>
+
+<hr>
+
 <br>
-
-🎴 Photoshop  | Illustrator | XD | Figma  <br>
-🎴 Web research | Lead Genaration | SEO | Digital Marketing <br>
-🎴 HTML5 | CSS3 | Bootstrap | TailwindCss | Modern JavaScript | React JS | Django | PHP | MYSQL   <br>
-🎴 WordPress themes customization  <br>
-🎴 And Python Programming <br> 
-
-<br> ⚡ Self learning is my passion. I have many happy Buyers in marketplaces.<br> Buyer satisfaction is my goal.  If you choose. Message me!😊 <br>
-
-<br>
-- 📫 I’m currently working on Fiver & Remote Job (USA) 
-
-- 📫 How to reach me Mail : mdmehedihasan20188@gmail.com
-- :sparkling_heart: Fun Fact - I love using Emojis <br><br><br>
-Thanks for your attention 👋
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcmehedi15&show_icons=true&locale=en&layout=compact" alt="rcmehedi15" /></p><br><br><br><br><br><br><br>
-
-
-<h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png">☕</g-emoji> Connect with me!</h2>
-
-<p dir="auto"><a href="https://www.facebook.com/rcmehedi15" rel="nofollow"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="facebook" height="40" style="max-width: 100%;"></a>  <a href="https://www.instagram.com/rcmehedi15/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" height="40" style="max-width: 100%;"></a>  <a href="https://twitter.com/rcmehedi15" rel="nofollow"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" height="40" style="max-width: 100%;"></a>  <a href="https://www.linkedin.com/in/rcmehedi15/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" height="40" style="max-width: 100%;"></a></p>
-
+<div id="badges" align="center">
+  
+  <a href="https://www.linkedin.com/in/rcmehedi15/" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@BanglaTechSeries" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href="https://www.facebook.com/rcmehedi15/" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a>
+ 
+   <a href="https://www.instagram.com/rcmehedi15" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
+   </a>
+   <br>
+</div>

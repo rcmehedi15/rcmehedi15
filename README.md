@@ -75,10 +75,10 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 ### 🔥 My GitHub Stats :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="50%" height="100%" alt="Github STat"/>
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="60%" height="100%" alt="Github STat"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="50%" height="100%" alt="Github STat"/>
 <hr>
 
 <br>
@@ -90,11 +90,9 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
   <a href="https://www.youtube.com/@BanglaTechSeries" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  
   <a href="https://www.facebook.com/rcmehedi15/" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a>
- 
    <a href="https://www.instagram.com/rcmehedi15" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
    </a>

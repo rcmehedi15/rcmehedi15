@@ -74,11 +74,11 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 ### 🔥 My GitHub Stats :
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="33%" height="100%" alt="Github STat"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/>
-</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" height="100%" alt="Github STat"/>
 
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="60%" height="100%" alt="Github STat"/>
 <hr>
 
 <br>

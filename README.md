@@ -40,6 +40,24 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 | 2  | Assistant General Manager-IT | Remote  |Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
 <hr>
 
+
+### 😎  Traning:
+
+| |  |  |  |  |  | | 
+| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
+| 9  | MERN Stack Development <br>Programming HERO and Youtube and udemy <br>July 2021 – DEC 2021
+| 9  | Cyber Security <br>Cyber 71 and E-Shikon <br>July 2021 – DEC 2021
+| 8  | Web Development (PHP/Laravel) <br>Amar Bangaldesh Foundation and ICT DIVISION,Udemy<br>DEC 2021 – June 2021
+| 7  | Web Design <br>IT Bari and Bohubrihi  <br>Oct 2020 – DEC 2021
+| 6  | Video Editing <br>MSB Academy & Shohag 360 and Youtube <br>April 2020 – Sep 2020
+| 5 | SEO <br>IT Bari and MD Faruk Khan <br>Jan 2020 – March 2020
+| 4  | Graphic Design <br>Infra Polytechnic ,Graphic Design Live Class BD, Instructory,Rayhan Sumon and Youtube <br>June 2019 – Dec 2023
+| 3  | Office Application <br>Infra Polytechnic Institute and Bright Skills and Youtube <br>Dec 2018 – May 2019
+| 2  | IT Support <br>Infra Polytechnic Institute <br>Aug 2018 – Nov 2018
+| 1  | Digital Marketing <br>Bogura Outsourching Institute and Tanvir Rasel <br> Feb 2018 – June 2018
+
+<hr>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  

@@ -13,7 +13,7 @@
 
 
 ### 🥰 About Me :
-
+<hr>
 Recently I completed diploma in engineering computer department 
 from Infra polytechnic institute.
 
@@ -24,7 +24,7 @@ Self learning is my passion
 
 
 ### 👨‍💼Experiences:
-
+<hr>
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
 | 1  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara-Dhaka, Bangladesh |

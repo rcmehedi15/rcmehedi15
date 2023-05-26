@@ -136,7 +136,9 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
    <a href="https://www.instagram.com/rcmehedi15" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
-   
+    <a href="+8801989618543" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Instagram Badge"/>
+   </a>
    <br>
 </div>
 

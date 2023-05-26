@@ -11,6 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vcenter=true&width=680&height=100&lines=Email+Me+for+any+website+Develop+And+graphic+design.%F0%9F%98%8A)](https://git.io/typing-svg)
 
+### COn
 ### 🥰 About Me :
 
 Recently I completed diploma in engineering computer department 
@@ -116,27 +117,13 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 ### 🔥 My GitHub Stats :
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="50%" height="100%" alt="Github STat"/>
+<div style="display: flex; gap: 10px;">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Stats" style="width: 50%; height: 100%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" style="width: 38%; height: 100%;" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="50%" height="100%" alt="Github STat"/>
 <hr>
 
 <br>
-<div id="badges" align="center">
-  
-  <a href="https://www.linkedin.com/in/rcmehedi15/" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@BanglaTechSeries" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/rcmehedi15/" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-   </a>
-   <a href="https://www.instagram.com/rcmehedi15" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
-   </a>
-   <br>
-</div>
+

@@ -80,6 +80,8 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 
 - The Campus Team Leader of the ICT Olympiad Bangladesh.
+- Content Creator
+- Leadership
 - Team Work
 - Research Technology
 - Motivator

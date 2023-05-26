@@ -25,14 +25,14 @@ Self learning is my passion
 
 ### 👨‍💼Experiences:
 <hr>
+
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
 | 1  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara-Dhaka, Bangladesh |
 | 2  | Assistant General Manager-IT | Remote  |Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
-<hr>
-
 
 ### 😎  Traning:
+<hr>
 
 | | | 
 | ------------- | ------------- | 
@@ -47,9 +47,9 @@ Self learning is my passion
 | 2  | IT Support <br>Infra Polytechnic Institute
 | 1  | Digital Marketing <br>Bogura Outsourching Institute and Tanvir Rasel
 
-<hr>
 
 ### 😎 Skillset :
+<hr>
 
 Comfortable: `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `DOM` `BOM` `ES6` `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js` `NODE JS` `MongoDB` `C` `Python`  `Django` `MYSQL` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms`
 
@@ -58,15 +58,18 @@ Familiar with: `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline`
 Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
 
 
-<hr>
 
 ### ✨ EXTRA CO-CARRICULAM ACTIVITICS
+<hr>
+
+
 - The Campus Team Leader of the ICT Olympiad Bangladesh.
 - Team Work
 - Research Technology
 - Motivator
 
 ### 🧶 EDUCATION
+<hr>
 
 -  Diploma in Engineering,Computer Science & Technology,
      
@@ -75,6 +78,7 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
      Passing Year: 2022, Result:  3.91
 
 ### 🎈 LANGUAGES
+<hr>
 
 -  Bengali - Native, Fluent Speaking, Listening, Reading and Writing
 - English - Speaking, Listening, Reading and Writing
@@ -84,6 +88,8 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 
 ###💖 Languages and Tools :
+<hr>
+
 <div>
  
    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;

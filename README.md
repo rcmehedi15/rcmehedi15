@@ -30,10 +30,10 @@ I am always excited to take on new projects and collaborate with like-minded ind
 Email : mdmehedihasan20188@gmail.com <br>
 what'sapp : +8801989618543
 
-You can reach me in 3 ways.
+You can reach me in 3 ways.  <br> <br>
 Technology Lover | Positive Thinker | Motivator 
 
-Self learning is my passion
+Self learning is my passion <br> <br>
 Thank You!
 
 <hr>

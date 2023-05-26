@@ -25,7 +25,7 @@ Self learning is my passion
 
 Comfortable: `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `DOM` `BOM` `ES6` `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js` `NODE JS` `MongoDB` `C` `Python`  `Django` `MYSQL` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms`
 
-Familiar with: `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline`
+Familiar with: `Advanced Javascript` `Node.js` `Python` `Php` `PostGreSql` `MySQL` `Typescript` `CI/CD` `Pipeline`
 
 Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
 

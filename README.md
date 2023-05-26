@@ -127,16 +127,27 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  </div>
+
   
- <hr>
+ ### 🔥 My GitHub Stats :
+  <hr>
+
+<div style="display: flex; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Stats" style="width: 50%; height: 100%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" style="width: 38%; height: 100%;" />
+</div>
+<hr>
 <div align="center"> 
 
  <a href="https://drive.google.com/file/d/1F8gpWHGoiFoBmyJ_zqEn4pThVowfkcal/view?fbclid=IwAR29XDmIiAVW39_GL6q5pO-fzD_chVCwcR3Lvhpp1Pw7ABmpJ3KhUL2awxg" style="text-decoration: none"  target="_blank" ><img src='https://i.postimg.cc/TPVkdYdv/btn.png' border='0' alt='btn'/></a>
   </a>
+</div>
 
-</div>
 <hr>
-</div>
+
 ### 🔥 Contact Me :
 <hr>
 

@@ -82,7 +82,7 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 
 
-### 🎊  hammer_and_wrenh: Languages and Tools :
+###hammer_and_wrenh: Languages and Tools :
 <div>
  
    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;

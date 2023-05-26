@@ -53,7 +53,7 @@ Self learning is my passion
 
 Expertise: `Python` `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `ES6` `DOM` `BOM`  `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js`  `MongoDB` `Django` `MYSQL` `OOP`
 
-Familiar with Advanced: ` Javascript` `Python` `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms` `C#` `Java` 
+Familiar with Advanced: ` Javascript` `Python` `Java`  `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms` 
 
 Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
 

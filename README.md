@@ -104,7 +104,14 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
   
-  
+ <hr>
+<div align="center"> 
+
+ <a href="https://drive.google.com/file/d/1F8gpWHGoiFoBmyJ_zqEn4pThVowfkcal/view?fbclid=IwAR29XDmIiAVW39_GL6q5pO-fzD_chVCwcR3Lvhpp1Pw7ABmpJ3KhUL2awxg" style="text-decoration: none"  target="_blank" ><img src='https://i.postimg.cc/TPVkdYdv/btn.png' border='0' alt='btn'/></a>
+  </a>
+
+</div>
+<hr>
 </div>
 ### 🔥 Contact Me :
 <hr>

@@ -21,16 +21,6 @@ Technology Lover | Positive Thinker | Motivator
 Self learning is my passion
 
 
-### 😎 Skillset :
-
-Comfortable: `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `DOM` `BOM` `ES6` `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js` `NODE JS` `MongoDB` `C` `Python`  `Django` `MYSQL` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms`
-
-Familiar with: `Advanced Javascript` `Node.js` `Python` `Php` `PostGreSql` `MySQL` `Typescript` `CI/CD` `Pipeline`
-
-Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
-
-
-<hr>
 
 ### 👨‍💼Experiences:
 
@@ -58,7 +48,41 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+### 😎 Skillset :
+
+Comfortable: `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `DOM` `BOM` `ES6` `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js` `NODE JS` `MongoDB` `C` `Python`  `Django` `MYSQL` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms`
+
+Familiar with: `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline`
+
+Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
+
+
+<hr>
+
+### ✨ EXTRA CO-CARRICULAM ACTIVITICS
+- The Campus Team Leader of the ICT Olympiad Bangladesh.
+- Team Work
+- Research Technology
+- Motivator
+
+### 🧶 EDUCATION
+
+-  Diploma in Engineering,Computer Science & Technology,
+     
+     Infra Polytechnic Institute,Barishal
+
+     Passing Year: 2022, Result:  3.91
+
+### 🎈 LANGUAGES
+
+-  Bengali - Native, Fluent Speaking, Listening, Reading and Writing
+- English - Speaking, Listening, Reading and Writing
+- Hindi - Conversational, Speaking, Listening and Understanding
+
+
+
+
+### 🎊  :hammer_and_wrenh: Languages and Tools :
 <div>
  
    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;

@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vcenter=true&width=680&height=100&lines=Email+Me+for+any+website+Develop+And+graphic+design.%F0%9F%98%8A)](https://git.io/typing-svg)
 
-### COn
+
 ### 🥰 About Me :
 
 Recently I completed diploma in engineering computer department 

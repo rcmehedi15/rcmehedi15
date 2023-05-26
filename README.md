@@ -27,7 +27,7 @@ In addition to my technical skills, I also have a keen eye for design and user e
 
 I am always excited to take on new projects and collaborate with like-minded individuals. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me."
 
-Email : mdmehedihasan20188@gmail.com
+Email : mdmehedihasan20188@gmail.com <br>
 what'sapp : +8801989618543
 
 You can reach me in 3 ways.

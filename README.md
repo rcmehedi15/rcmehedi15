@@ -106,24 +106,25 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
   
   
 </div>
-<hr>
-<div align="center"> 
-
- <a href="https://drive.google.com/file/d/1F8gpWHGoiFoBmyJ_zqEn4pThVowfkcal/view" style="text-decoration: none"  target="_blank" ><img src='https://i.postimg.cc/TPVkdYdv/btn.png' border='0' alt='btn'/></a>
-  </a>
-
-</div>
+### 🔥 Contact Me :
 <hr>
 
-### 🔥 My GitHub Stats :
-
-<div style="display: flex; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Stats" style="width: 50%; height: 100%" />
+<div id="badges" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" style="width: 38%; height: 100%;" />
+  <a href="https://www.linkedin.com/in/rcmehedi15/" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@BanglaTechSeries" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/rcmehedi15/" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a>
+   <a href="https://www.instagram.com/rcmehedi15" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+   </a>
+   
+   <br>
 </div>
-<hr>
 
-<br>
 

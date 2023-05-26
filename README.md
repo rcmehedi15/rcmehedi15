@@ -15,17 +15,17 @@
 ### 🥰 About Me :
 <hr>
 -Hello Boss"!  <br>
-I'm Md Mehedi Hasan, a passionate front-end web developer with 3 years of experience. I have a strong foundation in HTML, CSS, and JavaScript,Python and I enjoy creating visually appealing and user-friendly websites.  <br>
+I'm Md Mehedi Hasan, a passionate front-end web developer with 3 years of experience. I have a strong foundation in HTML, CSS, and JavaScript,Python and I enjoy creating visually appealing and user-friendly websites.  <br> <br>
 
-I have worked on various projects, collaborating with designers and back-end developers to bring concepts to life. <br>
+I have worked on various projects, collaborating with designers and back-end developers to bring concepts to life. <br> <br>
 
-My expertise lies in responsive design, ensuring that websites look great and function flawlessly across different devices and browsers. <br>
+My expertise lies in responsive design, ensuring that websites look great and function flawlessly across different devices and browsers. <br> <br>
 
-I am proficient in modern front-end frameworks like React js and I have experience with front-end build tools such as Webpack . I am constantly learning and staying up-to-date with the latest web technologies and best practices to deliver high-quality and efficient code.
+I am proficient in modern front-end frameworks like React js and I have experience with front-end build tools such as Webpack . I am constantly learning and staying up-to-date with the latest web technologies and best practices to deliver high-quality and efficient code.  <br> <br>
 
-In addition to my technical skills, I also have a keen eye for design and user experience. I believe in creating intuitive interfaces that engage and delight users. I am a problem solver, and I enjoy finding creative solutions to challenges that arise during development. <br>
+In addition to my technical skills, I also have a keen eye for design and user experience. I believe in creating intuitive interfaces that engage and delight users. I am a problem solver, and I enjoy finding creative solutions to challenges that arise during development. <br> <br> 
 
-I am always excited to take on new projects and collaborate with like-minded individuals. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me. <br>
+I am always excited to take on new projects and collaborate with like-minded individuals. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me. <br> <br>
 
 Email : mdmehedihasan20188@gmail.com <br>
 what'sapp : +8801989618543

@@ -139,7 +139,7 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
   
   
    <br>
-  Email : mdemehdihasan20188@gmail.com <br>
+  Email : mdmehedihasan20188@gmail.com <br>
   What'sapp : +8801989618543
 </div>
 

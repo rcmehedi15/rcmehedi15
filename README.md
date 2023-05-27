@@ -50,8 +50,9 @@ Thank You!
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
-| 1  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara-Dhaka, Bangladesh |
-| 2  | Assistant General Manager-IT | Remote  |Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
+| 3  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara-Dhaka, Bangladesh |
+| 2  | Assistant General Manager-IT | Remote  | Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
+| 1  | Freelancer | Remote  | Fiverr,Upwork,PeopleperHour | Feb, 2019 | Present | World Wide |
 
 
 <h1 align="center">🚂 Traning  </h1>

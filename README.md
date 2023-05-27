@@ -19,7 +19,7 @@
 
 
 
-<h1 align="center">🥰 About Me  <h1>
+<h1 align="center">🥰 About Me  </h1>
 
 -Hello Boss"!  <br>
 I'm Md Mehedi Hasan, a passionate front-end web developer with 3 years of experience. I have a strong foundation in HTML, CSS, and JavaScript,Python and I enjoy creating visually appealing and user-friendly websites.  <br> <br>
@@ -45,17 +45,16 @@ Thank You!
 
 <hr>
 
+<h1 align="center">👨‍💼Experiences  </h1>
 
-### 👨‍💼Experiences:
-<hr>
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
 | 1  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara-Dhaka, Bangladesh |
 | 2  | Assistant General Manager-IT | Remote  |Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
 
-### 😎  Traning:
-<hr>
+
+<h1 align="center">🚂 Traning  </h1>
 
 | | | 
 | ------------- | ------------- | 
@@ -71,8 +70,9 @@ Thank You!
 | 1  | Digital Marketing <br>Bogura Outsourching Institute and Tanvir Rasel
 
 
-### 😎 Skillset :
-<hr>
+
+<h1 align="center">🤹🏿‍♂️ Skillset  </h1>
+
 
 Expertise: `Python` `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `ES6` `DOM` `BOM`  `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js`  `MongoDB` `Django` `MYSQL` `OOP`
 
@@ -82,8 +82,7 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 
 
-### ✨ EXTRA CO-CARRICULAM ACTIVITICS
-<hr>
+<h1 align="center">✨ EXTRA CO-CARRICULAM ACTIVITICS</h1>
 
 
 - The Campus Team Leader of the ICT Olympiad Bangladesh.
@@ -93,8 +92,9 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 - Research Technology
 - Motivator
 
-### 🧶 EDUCATION
-<hr>
+
+<h1 align="center">🧶 EDUCATION</h1>
+
 
 -  Diploma in Engineering,Computer Science & Technology,
      
@@ -102,17 +102,18 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
      Passing Year: 2022, Result:  3.91
 
-### 🎈 LANGUAGES
-<hr>
+<h1 align="center">🛬 LANGUAGES</h1>
 
 -  Bengali - Native, Fluent Speaking, Listening, Reading and Writing
 - English - Speaking, Listening, Reading and Writing
 - Hindi - Conversational, Speaking, Listening and Understanding
 
+<br>
 
-<hr>
 
-###💖 ---- :
+<h1 align="center">⚙ Tech LANGUAGES</h1>
+
+
 <hr>
 
 <div>
@@ -137,8 +138,9 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
   </div>
 
   
- ### 🔥 My GitHub Stats :
-  <hr>
+
+<h1 align="center">🔥 My GitHub Stats</h1>
+
 
 <div style="display: flex; gap: 10px;">
 
@@ -155,7 +157,9 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 
 <hr>
 
-### 🔥 Contact Me :
+
+<h1 align="center">☎ Contact Me </h1>
+
 <hr>
 
 <div id="badges" align="center">

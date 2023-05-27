@@ -20,7 +20,7 @@
 
 
 <h1 align="center">🥰 About Me  <h1>
-<hr>
+
 -Hello Boss"!  <br>
 I'm Md Mehedi Hasan, a passionate front-end web developer with 3 years of experience. I have a strong foundation in HTML, CSS, and JavaScript,Python and I enjoy creating visually appealing and user-friendly websites.  <br> <br>
 

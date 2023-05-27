@@ -103,9 +103,9 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 - Hindi - Conversational, Speaking, Listening and Understanding
 
 
+<hr>
 
-
-###💖 Languages and Tools :
+###💖 ---- :
 <hr>
 
 <div>

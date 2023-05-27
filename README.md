@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="width: 100%; height: auto;" src="assets/webdevbanner.png"/>
+  <img style="width: 100%; height: auto;" src="Assets/webdevbanner.png"/>
 </div>
 
 <hr>

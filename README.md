@@ -57,18 +57,18 @@ Thank You!
 
 <h1 align="center">🚂 Traning  </h1>
 
-|   | Course Name and Learning Platform | 
-| ----------------- | ----------------- | 
-| 9  | MERN Stack Development <br>Programming HERO and Youtube and udemy 
-| 9  | Cyber Security <br>Cyber 71 and E-Shikon <br>
-| 8  | Web Development (PHP/Laravel) <br>Amar Bangaldesh Foundation and ICT DIVISION,Udemy
-| 7  | Web Design & Wordpress/WIX/Shopify <br>IT Bari and Bohubrihi and Coders Foundation
-| 6  | Video Editing <br>MSB Academy & Shohag 360 and Youtube
-| 5 | SEO & Meta Ads <br>IT Bari and MD Faruk Khan 
-| 4  | Graphic Design and Some UI/UX Design <br>Infra Polytechnic ,Graphic Design Live Class BD, Instructory,Rayhan Sumon and Youtube 
-| 3  | Office Application <br>Infra Polytechnic Institute and Bright Skills and Youtube 
-| 2  | IT Support <br>Infra Polytechnic Institute
-| 1  | Digital Marketing <br>Bogura Outsourching Institute and Tanvir Rasel
+| No.   | Course Name and Learning Platform |
+|-------|----------------------------------|
+| 10    | MERN Stack Development <br> Programming HERO, YouTube, and Udemy |
+| 9     | Cyber Security <br> Cyber 71 and E-Shikon |
+| 8     | Web Development (PHP/Laravel) <br> Amar Bangaldesh Foundation and ICT DIVISION, Udemy |
+| 7     | Web Design & Wordpress/WIX/Shopify <br> IT Bari, Bohubrihi, and Coders Foundation |
+| 6     | Video Editing <br> MSB Academy, Shohag 360, and YouTube |
+| 5     | SEO & Meta Ads <br> IT Bari and MD Faruk Khan |
+| 4     | Graphic Design and Some UI/UX Design <br> Infra Polytechnic, Graphic Design Live Class BD, Instructory, Rayhan Sumon, and YouTube |
+| 3     | Office Application <br> Infra Polytechnic Institute, Bright Skills, and YouTube |
+| 2     | IT Support <br> Infra Polytechnic Institute |
+| 1     | Digital Marketing <br> Bogura Outsourcing Institute and Tanvir Rasel |
 
 
 

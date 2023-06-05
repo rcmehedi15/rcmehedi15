@@ -57,9 +57,8 @@ Thank You!
 
 <h1 align="center">🚂 Traning  </h1>
 
-| | | 
-| ------------- | ------------- | 
-| Course Name and Learning Platform
+|   | Course Name and Learning Platform | 
+| ----------------- | ----------------- | 
 | 9  | MERN Stack Development <br>Programming HERO and Youtube and udemy 
 | 9  | Cyber Security <br>Cyber 71 and E-Shikon <br>
 | 8  | Web Development (PHP/Laravel) <br>Amar Bangaldesh Foundation and ICT DIVISION,Udemy

@@ -59,6 +59,7 @@ Thank You!
 
 | | | 
 | ------------- | ------------- | 
+| Course Name | and Learning Platform
 | 9  | MERN Stack Development <br>Programming HERO and Youtube and udemy 
 | 9  | Cyber Security <br>Cyber 71 and E-Shikon <br>
 | 8  | Web Development (PHP/Laravel) <br>Amar Bangaldesh Foundation and ICT DIVISION,Udemy
@@ -86,7 +87,7 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 <h1 align="center">✨ EXTRA CO-CARRICULAM ACTIVITICS</h1>
 
 
-- The Campus Team Leader of the ICT Olympiad Bangladesh.
+- The Campus Team Leader of the ICT Olympiad Bangladesh.( Manage 30+ people )
 - Content Creator
 - Leadership
 - Team Work

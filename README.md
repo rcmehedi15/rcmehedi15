@@ -35,7 +35,7 @@ In addition to my technical skills, I also have a keen eye for design and user e
 I am always excited to take on new projects and collaborate with like-minded individuals. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me. <br> <br>
 
 Email : mdmehedihasan20188@gmail.com <br>
-what'sapp : +8801989618543
+what'sapp : +8801878797329
 
 You can reach me in 3 ways.  <br> <br>
 Technology Lover | Positive Thinker | Motivator 
@@ -181,7 +181,7 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
   
    <br>
   Email : mdmehedihasan20188@gmail.com <br>
-  What'sapp : +8801989618543
+  What'sapp : +8801878797329
 </div>
 
 

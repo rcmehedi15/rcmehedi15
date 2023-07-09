@@ -75,7 +75,7 @@ Thank You!
 <h1 align="center">🤹🏿‍♂️ Skillset  </h1>
 
 
-Expertise: `Python` `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `ES6` `DOM` `BOM`  `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js`  `MongoDB` `Django` `MYSQL` `OOP`
+Expertise: `Python intermediate` `HTML` `CSS` `Media Query` `Bootstrap` `TailwindCSS` `JavaScript` `ES6` `DOM` `BOM`  `React.js` `React Router DOM` `Material Ui` `Daisy Ui` `Express.js`  `MongoDB` `NEXT JS` `Django` `MYSQL` `OOP`  `Jira` `Docker` `Linux` `Figma` `Illustrator`  `Photoshop` `filmora` `premiere pro`  `META`  
 
 Familiar with Advanced: ` Javascript` `Python` `Java`  `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms` 
 

@@ -35,7 +35,7 @@ In addition to my technical skills, I also have a keen eye for design and user e
 I am always excited to take on new projects and collaborate with like-minded individuals. If you have any questions or would like to discuss potential opportunities, feel free to reach out to me. <br> <br>
 
 Email : mdmehedihasan20188@gmail.com <br>
-what'sapp : +8801989618543
+WhatsApp : +8801989618543
 
 You can reach me in 3 ways.  <br> <br>
 Technology Lover | Positive Thinker | Motivator 
@@ -50,7 +50,7 @@ Thank You!
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
-| 4  | Digital Marketer & Graphic Designer & Web Developer  | Full Time  | FastNetBD | Sep, 2023 | Present | Uttara(11)-Dhaka, Bangladesh |
+| 4  | Digital Marketer ,Graphic Designer & Web Developer  | Full Time | FastNetBD | Sep, 2023 | Present | Uttara(11)-Dhaka, Bangladesh |
 | 3  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara(10)-Dhaka, Bangladesh |
 | 2  | Assistant General Manager-IT | Remote  | Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
 | 1  | Freelancer | Remote  | Fiverr,Upwork,Outside | Feb, 2019 | Present | World Wide |

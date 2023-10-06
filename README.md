@@ -50,6 +50,7 @@ Thank You!
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
+| 4  | Digital Marketer & Graphic Designer & Web Developer  | Full Time  | FastNetBD | Sep, 2023 | Present | Uttara(11)-Dhaka, Bangladesh |
 | 3  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara-Dhaka, Bangladesh |
 | 2  | Assistant General Manager-IT | Remote  | Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
 | 1  | Freelancer | Remote  | Fiverr,Upwork,PeopleperHour | Feb, 2019 | Present | World Wide |
@@ -59,7 +60,7 @@ Thank You!
 
 | No.   | Course Name and Learning Platform |
 |-------|----------------------------------|
-| 11    | CSE Fundamentals with Phitron <br> Jhankar Mahbub,Mahir ShahariarSalman Shamil , Farhan Firoz,Apurba Saha,Rahat Khan Pathan|
+| 11    | CSE Fundamentals with Phitron Running(4th batch) <br> Jhankar Mahbub, Mahir ShahariarSalman Shamil, Farhan Firoz, Apurba Saha, Rahat Khan Pathan|
 | 10    | MERN Stack Development <br> Programming HERO, YouTube, and Udemy |
 | 9     | Cyber Security <br> Cyber 71 and E-Shikon |
 | 8     | Web Development (PHP/Laravel) <br> Amar Bangladesh Foundation and ICT DIVISION, Udemy |

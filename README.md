@@ -59,10 +59,11 @@ Thank You!
 
 | No.   | Course Name and Learning Platform |
 |-------|----------------------------------|
+| 11    | CSE Fundamentals with Phitron <br> Jhankar Mahbub,Mahir ShahariarSalman Shamil , Farhan Firoz,Apurba Saha,Rahat Khan Pathan|
 | 10    | MERN Stack Development <br> Programming HERO, YouTube, and Udemy |
 | 9     | Cyber Security <br> Cyber 71 and E-Shikon |
-| 8     | Web Development (PHP/Laravel) <br> Amar Bangaldesh Foundation and ICT DIVISION, Udemy |
-| 7     | Web Design & Wordpress/WIX/Shopify <br> IT Bari, Bohubrihi, and Coders Foundation |
+| 8     | Web Development (PHP/Laravel) <br> Amar Bangladesh Foundation and ICT DIVISION, Udemy |
+| 7     | Web Design & WordPress/WIX/Shopify <br> IT Bari, Bohubrihi, and Coders Foundation |
 | 6     | Video Editing <br> MSB Academy, Shohag 360, and YouTube |
 | 5     | SEO & Meta Ads <br> IT Bari and MD Faruk Khan |
 | 4     | Graphic Design and Some UI/UX Design <br> Infra Polytechnic, Graphic Design Live Class BD, Instructory, Rayhan Sumon, and YouTube |
@@ -97,9 +98,9 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `
 <h1 align="center">🧶 EDUCATION</h1>
 
 
--  Diploma in Engineering,Computer Science & Technology,
+-  Diploma in Engineering, Computer Science & Technology,
      
-     Infra Polytechnic Institute,Barishal
+     Infra Polytechnic Institute, Barishal
 
      Passing Year: 2022, Result:  3.91
 

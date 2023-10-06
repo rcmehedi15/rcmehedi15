@@ -53,7 +53,7 @@ Thank You!
 | 4  | Digital Marketer & Graphic Designer & Web Developer  | Full Time  | FastNetBD | Sep, 2023 | Present | Uttara(11)-Dhaka, Bangladesh |
 | 3  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara(10)-Dhaka, Bangladesh |
 | 2  | Assistant General Manager-IT | Remote  | Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
-| 1  | Freelancer | Remote  | Fiverr,Upwork,PeopleperHour | Feb, 2019 | Present | World Wide |
+| 1  | Freelancer | Remote  | Fiverr,Upwork,Outside | Feb, 2019 | Present | World Wide |
 
 
 <h1 align="center">🚂 Traning  </h1>

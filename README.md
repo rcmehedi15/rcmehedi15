@@ -60,7 +60,8 @@ Thank You!
 
 | No.   | Course Name and Learning Platform |
 |-------|----------------------------------|
-| 11    | CSE Fundamentals with Phitron Running(4th batch) <br> Jhankar Mahbub, Mahir ShahariarSalman Shamil, Farhan Firoz, Apurba Saha, Rahat Khan Pathan|
+| 12    | CSE Fundamentals with Phitron Running(4th batch) <br> Jhankar Mahbub, Mahir ShahariarSalman Shamil, Farhan Firoz, Apurba Saha, Rahat Khan Pathan|
+| 11    | Build Multi-Vendor E-commerce & Drop shipping Website Today  <br>  MSB Academy |
 | 10    | MERN Stack Development <br> Programming HERO, YouTube, and Udemy |
 | 9     | Cyber Security <br> Cyber 71 and E-Shikon |
 | 8     | Web Development (PHP/Laravel) <br> Amar Bangladesh Foundation and ICT DIVISION, Udemy |

@@ -82,7 +82,7 @@ Expertise: `Python intermediate` `HTML` `CSS` `Media Query` `Bootstrap` `Tailwin
 
 Familiar with Advanced: ` Javascript` `Python` `Java`  `Redux` `Node.js` `React Native` `Typescript` `CI/CD` `Pipeline` `POSTgreSQL` `GraphQL`  `Data Structures and Algorithms` 
 
-Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
+Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `NPM` `Chrome Dev Tool` `Postman`  `Express Generator` `Web Mail` `Trello Board` `CSS Generator`
 
 
 

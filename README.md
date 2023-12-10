@@ -67,7 +67,7 @@ Thank You!
 | 8     | Web Development (PHP/Laravel) <br> Amar Bangladesh Foundation and ICT DIVISION, Udemy |
 | 7     | Web Design & WordPress/WIX/Shopify <br> IT Bari, Bohubrihi, and Coders Foundation |
 | 6     | Video Editing <br> MSB Academy, Shohag 360, and YouTube |
-| 5     | SEO & Meta Ads <br> IT Bari and MD Faruk Khan |
+| 5     | SEO & Meta Ads <br> IT Bari and Passive Journal |
 | 4     | Graphic Design and Some UI/UX Design <br> Infra Polytechnic, Graphic Design Live Class BD, Instructory, Rayhan Sumon, and YouTube |
 | 3     | Office Application <br> Infra Polytechnic Institute, Bright Skills, and YouTube |
 | 2     | IT Support <br> Infra Polytechnic Institute |

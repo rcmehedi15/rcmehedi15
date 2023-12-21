@@ -151,6 +151,7 @@ Tools: `CLI` `VS code` `Git, GitHub` `BitBucket` `Netlify` `Vercel` `NPM` `Chrom
   <img src="https://github-readme-stats.vercel.app/api?username=rcmehedi15&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Stats" style="width: 50%; height: 100%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcmehedi15&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" style="width: 38%; height: 100%;" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rcmehedi15=averak&layout=compact&langs_count=10&hide=html,css)
 </div>
 <hr>
 <div align="center"> 

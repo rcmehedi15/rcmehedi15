@@ -50,8 +50,11 @@ Thank You!
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
-| 4  | Graphic Designer, Digital Marketer , Technical Call Support & Website Maintainer  | Full Time | FASTNETBD | Sep, 2023 | Present | Uttara(11)-Dhaka, Bangladesh |
-| 3  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara(10)-Dhaka, Bangladesh |
+| 7  | Digital Marketer, Graphic Designer,  & Wordpress Developer  | Full Time | Ababil Group  | 20 January, 2023 | Present | Uttara(10)-Dhaka, Bangladesh |
+| 6  | IT Problem Solver  | Remote | FASTNETBD | 20 January , 2023 | Present | Uttara(11)-Dhaka, Bangladesh |
+| 5  | Graphic Designer, Digital Marketer , Technical Call Support & Website Maintainer  | Full Time | FASTNETBD | Sep, 2023 | January 2023 | Uttara(11)-Dhaka, Bangladesh |
+| 4  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara(10)-Dhaka, Bangladesh |
+| 3  | Software Engineer | Remote | Clean Infusion  | Augest , 2022  | Present | King of Prussia, Pennsylvania, United States |
 | 2  | Assistant General Manager-IT | Remote  | Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
 | 1  | Freelancer | Remote  | Fiverr,Upwork,Outside | Feb, 2019 | Present | World Wide |
 

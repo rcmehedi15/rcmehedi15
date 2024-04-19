@@ -78,7 +78,7 @@ Thank You!
 | 4     | Graphic Design and Some UI/UX Design <br> Infra Polytechnic, Graphic Design Live Class BD, Instructory, Rayhan Sumon, and YouTube |
 | 3     | Office Application <br> Infra Polytechnic Institute, Bright Skills, and YouTube |
 | 2     | IT Support <br> Infra Polytechnic Institute |
-| 1     | Digital Marketing <br> Bogura Outsourcing Institute and Tanvir Rasel,Khalid Farhan |
+| 1     | Digital Marketing & Lead Gen. <br> Bogura Outsourcing Institute and Tanvir Rasel,Khalid Farhan |
 
 
 

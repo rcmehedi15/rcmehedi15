@@ -66,7 +66,7 @@ Thank You!
 |-------|----------------------------------|
 | 15    | Master ChatGPT with Prompt Engineering Hacks <br> Interactive Cares |
 | 14    | Manual Software Quality Testing <br> SDET-QA |
-| 13    | CapCut Desktop Video Editing Masterclass <br> Ali Hossain (Pro Coder) |
+| 13    | CapCut Desktop Video Editing Masterclass <br> Ali Hossain (Pro Coder-Udemy) |
 | 12    | CSE Fundamentals with Phitron Running(4th batch -Running) <br> Jhankar Mahbub, Mahir Shahariar Salman Shamil, Farhan Firoz, Apurba Saha, Rahat Khan Pathan|
 | 11    | Build Multi-Vendor E-commerce & Drop shipping Website Today  <br>  MSB Academy |
 | 10    | MERN Stack Development <br> Programming HERO, YouTube, and Udemy |
@@ -78,7 +78,7 @@ Thank You!
 | 4     | Graphic Design and Some UI/UX Design <br> Infra Polytechnic, Graphic Design Live Class BD, Instructory, Rayhan Sumon, and YouTube |
 | 3     | Office Application <br> Infra Polytechnic Institute, Bright Skills, and YouTube |
 | 2     | IT Support <br> Infra Polytechnic Institute |
-| 1     | Digital Marketing <br> Bogura Outsourcing Institute and Tanvir Rasel |
+| 1     | Digital Marketing <br> Bogura Outsourcing Institute and Tanvir Rasel,Khalid Farhan |
 
 
 

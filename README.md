@@ -50,8 +50,8 @@ Thank You!
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
-| 8  | Digital Marketer & Graphic Designer  | Remote | A4 Admission & Hire CO Lk Education (Srilanka) , Sera Education (Nepal)   | 25 February 2024 | Present | Uttara(10)-Dhaka, Bangladesh |
-| 7  | Digital Marketer, Graphic Designer,  & WordPress Developer  | Full Time | Ababil Group  | 20 January, 2024 | Present | Uttara(10)-Dhaka, Bangladesh |
+| 8  | Digital Marketer & Graphic Designer  | Remote | A4 Admission & Hire CO Lk Education (Srilanka), Sera Education (Nepal), ARL & AEC (UK,Nepal,India,BD)   | 25 February 2024 | Present | Remote |
+| 7  | SEO & WordPress Developer  | Full Time | Ababil Group  | 20 January, 2024 | Present | Uttara(10)-Dhaka, Bangladesh |
 | 6  | IT Problem Solver  | Remote | FASTNETBD | 20 January , 2024 | Present | Uttara(11)-Dhaka, Bangladesh |
 | 5  | Graphic Designer, Digital Marketer , Technical Call Support & Website Maintainer  | Full Time | FASTNETBD | Sep, 2023 | January 2024 | Uttara(11)-Dhaka, Bangladesh |
 | 4  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara(10)-Dhaka, Bangladesh |

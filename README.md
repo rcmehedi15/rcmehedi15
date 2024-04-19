@@ -64,6 +64,7 @@ Thank You!
 
 | No.   | Course Name and Learning Platform |
 |-------|----------------------------------|
+| 16    | DevOps For Beginners (running) <br> Interactive Cares |
 | 15    | Master ChatGPT with Prompt Engineering Hacks <br> Interactive Cares |
 | 14    | Manual Software Quality Testing <br> SDET-QA |
 | 13    | CapCut Desktop Video Editing Masterclass <br> Ali Hossain (Pro Coder-Udemy) |

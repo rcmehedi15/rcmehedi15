@@ -64,7 +64,10 @@ Thank You!
 
 | No.   | Course Name and Learning Platform |
 |-------|----------------------------------|
-| 12    | CSE Fundamentals with Phitron Running(4th batch) <br> Jhankar Mahbub, Mahir ShahariarSalman Shamil, Farhan Firoz, Apurba Saha, Rahat Khan Pathan|
+| 15    | Master ChatGPT with Prompt Engineering Hacks <br> Interactive Cares |
+| 14    | Manual Software Quality Testing <br> SDET-QA |
+| 13    | CapCut Desktop Video Editing Masterclass <br> Ali Hossain (Pro Coder) |
+| 12    | CSE Fundamentals with Phitron Running(4th batch -Running) <br> Jhankar Mahbub, Mahir Shahariar Salman Shamil, Farhan Firoz, Apurba Saha, Rahat Khan Pathan|
 | 11    | Build Multi-Vendor E-commerce & Drop shipping Website Today  <br>  MSB Academy |
 | 10    | MERN Stack Development <br> Programming HERO, YouTube, and Udemy |
 | 9     | Cyber Security <br> Cyber 71 and E-Shikon |

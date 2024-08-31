@@ -50,20 +50,22 @@ Thank You!
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
-| 8  | Digital Marketer & Graphic Designer  | Remote | A4 Admission & Hire CO Lk Education (Srilanka), Sera Education (Nepal), ARL & AEC (UK,Nepal,India,BD)   | 25 February 2024 | Present | Remote |
-| 7  | SEO & WordPress Developer  | Full Time | Ababil Group  | 20 January, 2024 | Present | Uttara(10)-Dhaka, Bangladesh |
-| 6  | IT Problem Solver  | Remote | FASTNETBD | 20 January , 2024 | Present | Uttara(11)-Dhaka, Bangladesh |
-| 5  | Graphic Designer, Digital Marketer , Technical Call Support & Website Maintainer  | Full Time | FASTNETBD | Sep, 2023 | January 2024 | Uttara(11)-Dhaka, Bangladesh |
+| 9  | IT Specialist  | Full Time | Assign Realtor Ltd | July 2024 - Present | Icon Centre, 57/4 Progati Sharani, Dhaka 1229 |
+| 8  | Digital Marketer & Graphic Designer  | Remote | A4 Admission & Hire CO Lk Education (Srilanka), Sera Education (Nepal), ARL & AEC (UK,Nepal,India,BD)   | February 2024 - June 2024 | Remote |
+| 7  | Digital Marketer & Graphic Designer  | Full Time | Ababil Group  | 20 January, 2024 -  July 2024 | Uttara(10)-Dhaka, Bangladesh |
+| 6  | Problem Solver  | Remote | FASTNETBD | 20 January , 2024 | Present | Uttara(11)-Dhaka, Bangladesh |
+| 5  | Graphic Designer, Digital Marketer , Website Maintainer  | Full Time | FASTNETBD | Sep, 2023 | January 2024 | Uttara(11)-Dhaka, Bangladesh |
 | 4  | Software Engineering  | Intern  | Divine IT Ltd | OCT, 2022 | DEC,2022 | Uttara(10)-Dhaka, Bangladesh |
 | 3  | Software Engineer | Remote | Clean Infusion  | August , 2022  | Present | King of Prussia, Pennsylvania, United States |
 | 2  | Assistant General Manager-IT | Remote  | Travel Til Dawn | July, 2021 | Aug, 2022 | South California, USA |
-| 1  | Freelancer | Remote  | Fiverr,Upwork,Outside | Feb, 2019 | Present | World Wide |
+| 1  | Web & Graphic Freelancer | Remote  | Fiverr,Upwork,Outside | Feb, 2019 | Present | World Wide |
 
 
 <h1 align="center">🚂 Traning  </h1>
 
 | No.   | Course Name and Learning Platform |
 |-------|----------------------------------|
+| 18    | Basic To Advanced SEO <br> WsCube Tech |
 | 17    | Video Editing with Premiere Pro <br> 10 Minute School |
 | 16    | DevOps For Beginners <br> Interactive Cares |
 | 15    | Master ChatGPT with Prompt Engineering Hacks <br> Interactive Cares |

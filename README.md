@@ -50,7 +50,7 @@ Thank You!
 
 | No | Job Title | Job Tpye  | Company Name |  Start Date:| End Date | Location | 
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |  ---------- |
-| 9  | IT Specialist  | Full Time | Assign Realtor Ltd | July 2024 | Present | Icon Centre, 57/4 Progati Sharani, Dhaka 1229 |
+| 9  | Digital Marketing & Brand Communication | Full Time | Assign Realtor Ltd | July 2024 | Present | Icon Centre, 57/4 Progati Sharani, Dhaka 1229 |
 | 8  | Digital Marketer & Graphic Designer  | Remote | A4 Admission & Hire CO Lk Education (Srilanka), Sera Education (Nepal), ARL & AEC (UK,Nepal,India,BD)   | February 2024 | June 2024 | Remote |
 | 7  | Digital Marketer & Graphic Designer  | Full Time | Ababil Group  | 20 January, 2024 |  July 2024 | Uttara(10)-Dhaka, Bangladesh |
 | 6  | Problem Solver  | Remote | FASTNETBD | 20 January , 2024 | Present | Uttara(11)-Dhaka, Bangladesh |
